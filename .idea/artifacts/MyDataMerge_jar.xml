@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyDataMerge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyDataMerge_jar</output-path>
+    <root id="archive" name="MyDataMerge.jar">
+      <element id="module-output" name="MyDataMerge" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jackson-annotations-2.11.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jackson-core-2.11.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/w3c-dom.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jackson-databind-2.11.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
